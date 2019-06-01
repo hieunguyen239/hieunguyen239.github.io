@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phobowl/static/css/main.5f79d700.chunk.css",
+    "main.js": "/phobowl/static/js/main.55431135.chunk.js",
+    "main.js.map": "/phobowl/static/js/main.55431135.chunk.js.map",
+    "runtime~main.js": "/phobowl/static/js/runtime~main.8292fe68.js",
+    "runtime~main.js.map": "/phobowl/static/js/runtime~main.8292fe68.js.map",
+    "static/js/2.796b3fee.chunk.js": "/phobowl/static/js/2.796b3fee.chunk.js",
+    "static/js/2.796b3fee.chunk.js.map": "/phobowl/static/js/2.796b3fee.chunk.js.map",
+    "index.html": "/phobowl/index.html",
+    "precache-manifest.1477c2d756a3d3d6639f452b8675fb05.js": "/phobowl/precache-manifest.1477c2d756a3d3d6639f452b8675fb05.js",
+    "service-worker.js": "/phobowl/service-worker.js",
+    "static/css/main.5f79d700.chunk.css.map": "/phobowl/static/css/main.5f79d700.chunk.css.map"
+  }
+}
